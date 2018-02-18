@@ -1,0 +1,217 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2018-02-16, 22:51:46
+    Author     : sebmiet
+*/
+
+/*h1 {
+    
+    font-family: sans-serif; font-size: 18px;
+
+}*/
+
+body {
+    
+    background-color: #e6e6e6; 
+    color: #000000;
+
+}
+
+#art{
+    margin-top: 10px;
+    background-color: #f8f8f8; 
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-left: #e38d13 solid 15px;
+    border-top: #bbb solid 60px;
+    border-radius: 15px;
+    box-shadow: 0px 1px 5px #000000;
+    
+}
+.navbar-default {
+  background-color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  /*border-bottom: #398439 solid 1px;*/
+  box-shadow: 0px 1px 5px #000000;
+  border-radius: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  border: 0px;
+}
+
+
+.navbar-brand-custom {
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 14px;
+  line-height: 20px;
+  padding-bottom: 5px;
+  padding-top: 0px;
+   
+}
+
+.navli{    
+    text-decoration: none;
+    border-bottom: 5px solid transparent;
+    transition: all ease-in-out 0.9s;
+}
+
+.navli:hover{
+    background-color: #ffffff;
+    border-bottom: 5px solid #000000;
+    
+}
+
+
+.nav.navbar-nav.navbar-right.icon{   
+    width: 42px;
+    padding-top: 3px;   
+}
+
+#social-icon{
+      
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+
+.nav.navbar-nav.navbar-right.icon > a{
+    color: #555;
+    font-size: 35px;
+    transition: all ease 0.9s;
+   
+}
+.nav.navbar-nav.navbar-right.icon > a:hover{
+    /*font-size: 30px;*/
+     transform: rotateY(360deg);
+}
+#facebook{
+    color: #555;
+    font-size: 35px;
+    transition: all ease 0.5s;
+}
+#facebook:hover{
+    color: #3b5998;
+    transform: rotate(360deg);
+}
+#twitter{
+    color: #555;
+    font-size: 35px;
+    transition: all ease 0.5s;
+}
+#twitter:hover{
+    color: #00aced;
+}
+#linkedin{
+    color: #555;
+    font-size: 35px;
+    transition: all ease 0.5s;
+}
+#linkedin:hover{
+    color: #0077b5;
+}
+#github{
+    color: #555;
+    font-size: 35px;
+    transition: all ease 0.5s;
+}
+#github:hover{
+    color: #333;
+}
+
+.carousel-caption > h1{
+    font-size: 50px;
+}
+
+.hr-line{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 300px;
+    border-bottom: #1ab7ea solid 1px;
+    border-radius: 5px;
+    text-align: center;
+    color: #e38d13;
+    background-color: #1ab7ea;
+    box-shadow: 0px 1px 5px #000000;
+    transition: all ease-in-out 0.5s;
+    
+}
+.hr-line:hover{
+    width: 800px
+}
+
+
+p{
+    font-size: 16px;
+    color: #808080;
+    text-align: justify;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-left: 0px;
+    float: left;
+}
+
+
+
+.title-header{
+    font-size: 80px;
+    color: #bbb;
+    text-align: left;
+    margin-right: 260px;
+    text-shadow: 1px 1px #808080;
+    transition: all ease-in-out 0.5s;
+}
+
+.title-header:hover{
+    transform: skewX(-7deg);
+}
+
+.img-thumbnail{
+    margin-top: 140px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 40px;
+    padding-right: 5px;
+    padding-left: 5px;
+    box-shadow: 0px 3px 5px #000000;   
+    transform: rotate(7deg);
+    transition: all ease-in-out 0.5s;
+    width: auto;
+    height: auto;
+    
+}
+.img-thumbnail:hover{
+    transform: rotate(0deg) scale(1.1, 1.1);
+}
+
+.img-rounded{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    max-height: 300px;
+    max-width: 300px;
+    height: auto;
+    width: 250px;
+    transition: all ease-in-out 0.5s;
+}
+.img-rounded:hover{
+  
+    transform: rotateX(360deg) scale(1.5, 1.5);
+}
+
+.logo{
+    width: auto;
+    height: auto;
+}
+
+
+
