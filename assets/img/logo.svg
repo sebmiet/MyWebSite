@@ -22,30 +22,17 @@
      id="defs815">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4773">
+       id="linearGradient922">
       <stop
-         style="stop-color:#ffcc00;stop-opacity:1;"
+         style="stop-color:#ff6600;stop-opacity:1;"
          offset="0"
-         id="stop4769" />
+         id="stop918" />
       <stop
-         style="stop-color:#ffcc00;stop-opacity:0;"
+         style="stop-color:#ff6600;stop-opacity:0;"
          offset="1"
-         id="stop4771" />
+         id="stop920" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4722">
-      <stop
-         style="stop-color:#1f241c;stop-opacity:1;"
-         offset="0"
-         id="stop4718" />
-      <stop
-         style="stop-color:#1f241c;stop-opacity:0;"
-         offset="1"
-         id="stop4720" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient1399"
        osb:paint="gradient">
       <stop
@@ -59,58 +46,13 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4722"
-       id="linearGradient4724"
-       x1="35.770916"
-       y1="115.61014"
-       x2="36.968334"
-       y2="114.19518"
+       xlink:href="#linearGradient922"
+       id="linearGradient924"
+       x1="38.909573"
+       y1="291.70645"
+       x2="45.619896"
+       y2="291.54498"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4722"
-       id="linearGradient4726"
-       gradientUnits="userSpaceOnUse"
-       x1="35.770916"
-       y1="115.61014"
-       x2="36.968334"
-       y2="114.19518" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4722"
-       id="linearGradient4728"
-       gradientUnits="userSpaceOnUse"
-       x1="35.770916"
-       y1="115.61014"
-       x2="36.968334"
-       y2="114.19518" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4773"
-       id="linearGradient4777"
-       x1="36.696087"
-       y1="114.85098"
-       x2="38.274456"
-       y2="113.10674"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4773"
-       id="linearGradient4779"
-       gradientUnits="userSpaceOnUse"
-       x1="36.696087"
-       y1="114.85098"
-       x2="38.274456"
-       y2="113.10674" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4773"
-       id="linearGradient4781"
-       gradientUnits="userSpaceOnUse"
-       x1="36.696087"
-       y1="114.85098"
-       x2="38.274456"
-       y2="113.10674" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -119,9 +61,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="156.20033"
-     inkscape:cy="16.845067"
+     inkscape:zoom="2.8"
+     inkscape:cx="65.94301"
+     inkscape:cy="24.281047"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -145,7 +87,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -155,85 +97,80 @@
      id="layer1"
      transform="translate(0,-283.77082)">
     <g
-       id="g4818"
-       transform="translate(0.71779512,0.06681738)">
+       id="g4795"
+       transform="matrix(0.9990502,0,0,0.9990502,0.3431632,-1.3228366)"
+       style="fill:url(#linearGradient924);fill-opacity:1;stroke-width:0.10009507;stroke-miterlimit:4;stroke-dasharray:none">
       <g
-         transform="matrix(0.8734464,0,0,0.8734464,4.0402838,35.147777)"
-         id="g4795">
-        <g
-           id="g4624-7"
-           transform="matrix(3.4726549,0,0,3.4726549,-90.648036,-106.32941)"
-           style="opacity:0.22400004;fill:url(#linearGradient4724);fill-opacity:1"
-           inkscape:export-xdpi="95.138"
-           inkscape:export-ydpi="95.138">
-          <circle
-             r="1.252826"
-             cy="114.74314"
-             cx="36.615578"
-             id="path1374-0-6"
-             style="opacity:0.169;fill:url(#linearGradient4726);fill-opacity:1;stroke:none;stroke-width:0.34213361" />
-          <circle
-             r="1.252826"
-             cy="114.68122"
-             cx="36.667889"
-             id="path1374-3"
-             style="fill:url(#linearGradient4728);fill-opacity:1;stroke:none;stroke-width:0.34213361" />
-        </g>
-        <g
-           id="g4624"
-           transform="matrix(3.4726548,0,0,3.4726548,-90.491176,-106.68858)"
-           style="fill:url(#linearGradient4777);fill-opacity:1;stroke:#22241c;stroke-width:0.00761905;stroke-miterlimit:4;stroke-dasharray:0.00761905, 0.00761905;stroke-dashoffset:0"
-           inkscape:export-xdpi="95.138"
-           inkscape:export-ydpi="95.138">
-          <circle
-             r="1.252826"
-             cy="114.74314"
-             cx="36.615578"
-             id="path1374-0"
-             style="opacity:0.169;fill:url(#linearGradient4779);fill-opacity:1;stroke:#22241c;stroke-width:0.00761905;stroke-miterlimit:4;stroke-dasharray:0.00761905, 0.00761905;stroke-dashoffset:0" />
-          <circle
-             r="1.252826"
-             cy="114.68122"
-             cx="36.667889"
-             id="path1374"
-             style="fill:url(#linearGradient4781);fill-opacity:1;stroke:#22241c;stroke-width:0.00761905;stroke-miterlimit:4;stroke-dasharray:0.00761905, 0.00761905;stroke-dashoffset:0" />
-        </g>
+         inkscape:export-ydpi="95.138"
+         inkscape:export-xdpi="95.138"
+         style="opacity:0.22400004;fill:url(#linearGradient924);fill-opacity:1;stroke-width:0.02882379;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(3.4726549,0,0,3.4726549,-90.648036,-106.32941)"
+         id="g4624-7">
+        <circle
+           style="opacity:0.169;fill:url(#linearGradient924);fill-opacity:1;stroke:none;stroke-width:0.02882379;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1374-0-6"
+           cx="36.615578"
+           cy="114.74314"
+           r="1.252826" />
+        <circle
+           style="fill:url(#linearGradient924);fill-opacity:1;stroke:none;stroke-width:0.02882379;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1374-3"
+           cx="36.667889"
+           cy="114.68122"
+           r="1.252826" />
       </g>
-      <text
+      <g
          inkscape:export-ydpi="95.138"
          inkscape:export-xdpi="95.138"
-         id="text1368-5"
-         y="294.0069"
-         x="0"
-         style="font-style:normal;font-weight:normal;font-size:8.91059494px;line-height:0.40000001;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.17000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55691218"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.91059494px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.55691218"
-           y="294.0069"
-           x="0"
-           id="tspan1366-3"
-           sodipodi:role="line"><tspan
-   id="tspan4787"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.09276867px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.55691218">mietka</tspan>   <tspan
-   id="tspan4760"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.09276867px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.55691218">online</tspan></tspan></text>
-      <text
-         inkscape:export-ydpi="95.138"
-         inkscape:export-xdpi="95.138"
-         id="text1368"
-         y="294.0069"
-         x="0"
-         style="font-style:normal;font-weight:normal;font-size:8.91059494px;line-height:0.40000001;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55691218"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.91059494px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.55691218"
-           y="294.0069"
-           x="0"
-           id="tspan1366"
-           sodipodi:role="line"><tspan
-   id="tspan1370"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.09276867px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#53676c;stroke-width:0.55691218">mietka</tspan>   <tspan
-   id="tspan4758"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.09276867px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ad4ff;stroke-width:0.55691218">online</tspan></tspan></text>
+         style="fill:url(#linearGradient924);fill-opacity:1;stroke:#22241c;stroke-width:0.02882379;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         transform="matrix(3.4726548,0,0,3.4726548,-90.491176,-106.68858)"
+         id="g4624">
+        <circle
+           style="opacity:0.169;fill:url(#linearGradient924);fill-opacity:1;stroke:#22241c;stroke-width:0.02882379;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path1374-0"
+           cx="36.615578"
+           cy="114.74314"
+           r="1.252826" />
+        <circle
+           style="fill:url(#linearGradient924);fill-opacity:1;stroke:#22241c;stroke-width:0.02882379;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path1374"
+           cx="36.667889"
+           cy="114.68122"
+           r="1.252826" />
+      </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.91059494px;line-height:0.40000001;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.17000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55691218"
+       x="1.4007907"
+       y="293.85367"
+       id="text1368-5"
+       inkscape:export-xdpi="95.138"
+       inkscape:export-ydpi="95.138"><tspan
+         sodipodi:role="line"
+         id="tspan1366-3"
+         x="1.4007907"
+         y="293.85367"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.91059494px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.55691218"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.09276867px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.55691218"
+           id="tspan4787">mietka  online</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.91059494px;line-height:0.40000001;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#53676c;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:butt;stroke-dashoffset:0;"
+       x="1.5874045"
+       y="293.37787"
+       id="text1368"
+       inkscape:export-xdpi="95.138"
+       inkscape:export-ydpi="95.138"><tspan
+         sodipodi:role="line"
+         id="tspan1366"
+         x="1.5874045"
+         y="293.37787"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.91059494px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.2;fill:#53676c;fill-opacity:1;stroke:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:butt;stroke-dashoffset:0;"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.09276867px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#53676c;stroke-width:0.2;fill-opacity:1;stroke:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:butt;stroke-dashoffset:0;"
+           id="tspan1370">mietka  </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.09276867px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#53676c;stroke-width:0.2;fill-opacity:1;stroke:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:butt;stroke-dashoffset:0;"
+           id="tspan4758">online</tspan></tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4750"
@@ -245,5 +182,5 @@
            height="128.79445"
            x="-5.3033009"
            y="-47.227184" /></flowRegion><flowPara
-         id="flowPara4756"></flowPara></flowRoot>  </g>
+         id="flowPara4756" /></flowRoot>  </g>
 </svg>
