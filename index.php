@@ -68,7 +68,7 @@ and open the template in the editor.
                             </div>
                         </li>
                         <li id="social-icon">
-                            <div  class="nav navbar-nav navbar-right icon">
+                            <div  class="nav navbar-nav navbar-right icon facebook">
                                 <a href="http://facebook.com/sebastian.mietka">
                                     <i class="icon-facebook-squared" id="facebook"></i>
                                 </a>
@@ -158,8 +158,8 @@ and open the template in the editor.
                         <h1 class="title-header">O mnie...</h1>
 
                         <p>
-                            Nazywam się <strong>Sebastian Miętka</strong>. Poszukuję pracy jako programista, żeby móc w dalszym ciągu się rozwijać i 
-                            szlifować zdobyte dotychczas umiejętności.
+                            Nazywam się <strong>Sebastian Miętka</strong>. Szukam pierwszej pracy jako programista, żeby móc się w dalszym ciągu rozwijać i 
+                            szlifować zdobyte dotychczas umiejętności. Chciałbym uczestniczyć w jakimś projekcie przy którym mógłbym poszerzać swoje umiejętności.
                             Pasjonuję się szeroko pojętym programowaniem, lubię uczyć się nowych rzeczy i zdobywać nowe doświadczenia. Trudno mi wyobrazić sobie lepsze
                             rozwiązanie od pracy, która jednocześnie jest pasją. Dotychczas zawodowo robiłem różne rzeczy, których nie chciałem robić, albo które mnie zwyczajnie nudziły,
                             czas w końcu zacząć robić coś, do czego nie trzeba mnie specjalnie zachęcać, coś co daje satysfakcję z pracy oraz co najważniejsze, nie zatrzumuje mnie
@@ -168,11 +168,13 @@ and open the template in the editor.
 
                         <p>
                             Prywatnie od dwóch lat mieszkam ze swoją rodziną poza miastem.
-                            Wieś znam od dziecka, często przyjeżdżałem do dziadków, którzy prowadzili niewielkie gospodarstwo rolne, pomagałem im z przyjemnością w czasie wakacji w zbiorach. Dziś sam tu mieszkam 
-                            i choć po gospodarstwie dziadków nie zostało nic poza budynkami to ja czuję się tu jak ryba w wodzie. Uwielbiam zajmować się obowiązkami, których przy starym domu nie brakuje.
+                            Wieś znam od dziecka, często w przeszłości, będąc jeszcze w wieku szkolnym, przyjeżdżałem tu do dziadków, którzy prowadzili niewielkie gospodarstwo rolne, pomagałem im z ogromną przyjemnością 
+                            w zbiorach podczas wakacji. Dziś sam tu mieszkam 
+                            i choć po gospodarstwie dziadków nie zostało nic poza budynkami to ja czuję się tu jak ryba w wodzie. Bardzo dużą frajdę sprawia mi zajmowanie się obowiązkami przydomowymi, 
+                            których zwłaszcza przy starym domu z połowy XIX w. (1860 r.) nie brakuje.
                         </p>
                         <p>
-                            Gdzieś pomiędzy programowaniem, a pracą w ogródku ;) lubię poszaleć w rajdach lub wyścicgach za kierownicą, ale raczej wirtualnie w symulatorach typu Assetto Corsa czy Dirt Rally.
+                            Gdzieś pomiędzy programowaniem, a pracą w ogródku ;) lubię poszaleć w samochodowych rajdach lub wyścicgach za kierownicą, ale raczej wirtualnie, w symulatorach typu Assetto Corsa czy Dirt Rally.
                         </p>
                     </div>
 
@@ -181,7 +183,7 @@ and open the template in the editor.
             </div>
             <div class="row">
                 <div class="col-md-12" >
-                    <h3><strong>Poniżej kilka ikonografik przedstawiających technologie w których się rozwijam:</strong></h3>
+                    <h3 class="subtitle-text"><strong>Poniżej kilka ikonografik przedstawiających technologie w których się rozwijam:</strong></h3>
                 </div>
             </div>
             <div class="row">
@@ -194,7 +196,7 @@ and open the template in the editor.
                      
                     </div>
                     <div class="col-md-4">
-                        <img src="assets/img/php-logo.svg" class="img-rounded" />
+                        <img src="assets/img/php_logo.png" class="img-rounded" />
                      
                     </div>
                 </div>
