@@ -121,7 +121,7 @@ and open the template in the editor.
                     </div>
                 </div>
                 <div class="item">
-                    <img src="assets/img/carousel3.jpg" alt="">
+                    <img src="assets/img/create.png" alt="">
                     <!-- Opis slajdu -->
                     <div class="carousel-caption">
                         <h1>| C# | .NET |</h1>
